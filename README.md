@@ -1,6 +1,6 @@
 # Guide to your own artificial intelligence app in 3 steps
 ## 1) Clone repo and install requirements from requirements.txt
-`git clone pycon-ca-2018-shades`  
+`git clone https://github.com/norahsakal/pycon-ca-2018-shades.git`  
 `pip install -r requirements.txt`
 
 ## 2) Train a model
